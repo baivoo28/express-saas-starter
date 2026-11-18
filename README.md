@@ -90,7 +90,7 @@ Need the rest of the SaaS plumbing? **Pro** adds everything you would otherwise 
 - ⚙️ **GitHub Actions CI** (typecheck + tests + build) and **deploy guides** for Render, Railway and Fly.io
 - 48 tests, lifetime updates
 
-👉 **[Get Pro](https://YOUR-GUMROAD-LINK)**
+👉 **[Get Pro](https://baccino2.gumroad.com/l/express-saas-pro)**
 
 ## License
 
